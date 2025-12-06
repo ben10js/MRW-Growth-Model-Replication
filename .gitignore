@@ -1,6 +1,6 @@
 # Data
 data/raw/*.xlsx
-data/processed/*.csv
+# data/processed/*.csv
 *.csv
 
 # Python/Jupyter
