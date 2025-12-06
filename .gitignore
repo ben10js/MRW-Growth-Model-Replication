@@ -1,0 +1,18 @@
+# Data
+data/raw/*.xlsx
+data/processed/*.csv
+*.csv
+
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.virtual_documents
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# Legacy/Backup (Optional)
+legacy/
