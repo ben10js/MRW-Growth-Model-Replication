@@ -3,11 +3,10 @@
 ## Overview
 This project replicates and extends the seminal empirical analysis of **Mankiw, Romer, and Weil's (1992) "A Contribution to the Empirics of Economic Growth"**. By leveraging the Solow growth model augmented with human capital, this study reassesses the drivers of cross-country income differences using modern data from the **Penn World Table (PWT) 10.0**.
 
-<img src="https://github.com/user-attachments/assets/74bce678-cd2d-4254-983d-2b847b08ac91" 
-     alt="human_capital_growth" width="400" style="display:inline-block;"/>
-
-<img src="https://github.com/user-attachments/assets/e9a97366-ed85-408f-87c1-c9860f20b39e" 
-     alt="unconditional_convergence" width="400" style="display:inline-block;"/>
+<div style="display:flex; gap:10px;">
+  <img src="https://github.com/user-attachments/assets/74bce678-cd2d-4254-983d-2b847b08ac91" alt="human_capital_growth" width="400"/>
+  <img src="https://github.com/user-attachments/assets/e9a97366-ed85-408f-87c1-c9860f20b39e" alt="unconditional_convergence" width="400"/>
+</div>
 
 
 ## Key Features
