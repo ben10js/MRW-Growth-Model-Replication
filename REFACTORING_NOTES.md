@@ -1,4 +1,4 @@
-# Refactoring Notes (SeoulTech Portfolio)
+# Refactoring Notes
 
 This repository was refactored significantly to meet professional software engineering and data science standards.
 
