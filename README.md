@@ -20,7 +20,7 @@ The primary data source is the **Penn World Table 10.0**.
 - **Download**: [PWT 10.0 Website](https://www.rug.nl/ggdc/productivity/pwt/)
 - **File**: `pwt100.xlsx`
 - **Instruction**: Place the downloaded Excel file in the `data/raw/` directory.
-- **World Development Indicators (WDI)** for working age population
+- I used 'working age population' from **World Development Indicators (WDI)** instead of pwt
 
 ## Project Structure
 ```text
